@@ -1,0 +1,8 @@
+{
+  "appId": "com.hello.world",
+  "appName": "helloworld",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
